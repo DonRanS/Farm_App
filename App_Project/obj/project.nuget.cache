@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "oFBSQHjsCvn1tN8BGIPFOzrg06HxRPObPE8vwz8P3O0AErXWfnul6+PYl7YCO1/hmM8Zv6ivWHUUn0etEtjBWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Randika Sirimanne\\Desktop\\Application\\App_Project\\App_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Randika Sirimanne\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Randika Sirimanne\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Randika Sirimanne\\.nuget\\packages\\system.data.oledb\\6.0.0\\system.data.oledb.6.0.0.nupkg.sha512",
+    "C:\\Users\\Randika Sirimanne\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.0\\system.diagnostics.performancecounter.6.0.0.nupkg.sha512",
+    "C:\\Users\\Randika Sirimanne\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Randika Sirimanne\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Randika Sirimanne\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Randika Sirimanne\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Randika Sirimanne\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

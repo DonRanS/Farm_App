@@ -1,0 +1,40 @@
+D:\COMP609\testing\App_Project\bin\Debug\net6.0-windows\App_Project.exe
+D:\COMP609\testing\App_Project\bin\Debug\net6.0-windows\App_Project.deps.json
+D:\COMP609\testing\App_Project\bin\Debug\net6.0-windows\App_Project.runtimeconfig.json
+D:\COMP609\testing\App_Project\bin\Debug\net6.0-windows\App_Project.dll
+D:\COMP609\testing\App_Project\bin\Debug\net6.0-windows\App_Project.pdb
+D:\COMP609\testing\App_Project\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\COMP609\testing\App_Project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\COMP609\testing\App_Project\obj\Debug\net6.0-windows\App_Project.csproj.AssemblyReference.cache
+D:\COMP609\testing\App_Project\obj\Debug\net6.0-windows\App_Project.Form1.resources
+D:\COMP609\testing\App_Project\obj\Debug\net6.0-windows\App_Project.csproj.GenerateResource.cache
+D:\COMP609\testing\App_Project\obj\Debug\net6.0-windows\App_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMP609\testing\App_Project\obj\Debug\net6.0-windows\App_Project.AssemblyInfoInputs.cache
+D:\COMP609\testing\App_Project\obj\Debug\net6.0-windows\App_Project.AssemblyInfo.cs
+D:\COMP609\testing\App_Project\obj\Debug\net6.0-windows\App_Project.csproj.CoreCompileInputs.cache
+D:\COMP609\testing\App_Project\obj\Debug\net6.0-windows\App_Project.csproj.CopyComplete
+D:\COMP609\testing\App_Project\obj\Debug\net6.0-windows\App_Project.dll
+D:\COMP609\testing\App_Project\obj\Debug\net6.0-windows\refint\App_Project.dll
+D:\COMP609\testing\App_Project\obj\Debug\net6.0-windows\App_Project.pdb
+D:\COMP609\testing\App_Project\obj\Debug\net6.0-windows\App_Project.genruntimeconfig.cache
+D:\COMP609\testing\App_Project\obj\Debug\net6.0-windows\ref\App_Project.dll
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\bin\Debug\net6.0-windows\App_Project.exe
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\bin\Debug\net6.0-windows\App_Project.deps.json
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\bin\Debug\net6.0-windows\App_Project.runtimeconfig.json
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\bin\Debug\net6.0-windows\App_Project.dll
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\bin\Debug\net6.0-windows\App_Project.pdb
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\obj\Debug\net6.0-windows\App_Project.csproj.AssemblyReference.cache
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\obj\Debug\net6.0-windows\App_Project.Form1.resources
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\obj\Debug\net6.0-windows\App_Project.csproj.GenerateResource.cache
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\obj\Debug\net6.0-windows\App_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\obj\Debug\net6.0-windows\App_Project.AssemblyInfoInputs.cache
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\obj\Debug\net6.0-windows\App_Project.AssemblyInfo.cs
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\obj\Debug\net6.0-windows\App_Project.csproj.CoreCompileInputs.cache
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\obj\Debug\net6.0-windows\App_Project.csproj.CopyComplete
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\obj\Debug\net6.0-windows\App_Project.dll
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\obj\Debug\net6.0-windows\refint\App_Project.dll
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\obj\Debug\net6.0-windows\App_Project.pdb
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\obj\Debug\net6.0-windows\App_Project.genruntimeconfig.cache
+C:\Users\Randika Sirimanne\Desktop\Application\App_Project\obj\Debug\net6.0-windows\ref\App_Project.dll
